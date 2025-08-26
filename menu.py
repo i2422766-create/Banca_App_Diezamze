@@ -1,5 +1,5 @@
 import streamlit as st
-from views import home, simulador, reportes
+from views import home, simulador
 
 def mostrar_menu():
     opciones = {
